@@ -1,0 +1,15 @@
+body,
+html {
+    background-color: #40413A;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
